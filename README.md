@@ -1,5 +1,5 @@
 # Ted-Talks-Views-Prediction
-# natural Language Processing and Regression : TED Talks Views Prediction
+# Natural Language Processing and Regression : TED Talks Views Prediction
 
 
 #### -- Project Status: [Completed]
